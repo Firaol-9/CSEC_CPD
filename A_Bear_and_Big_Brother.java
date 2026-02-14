@@ -13,5 +13,6 @@ public class A_Bear_and_Big_Brother{
             counter++;
         }
         System.out.println(counter);
+        in.close();
    }
 }
